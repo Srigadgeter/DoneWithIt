@@ -18,7 +18,7 @@ Reference: https://developer.android.com/studio/install#linux
 7. Follow steps to install the android studio related packages (SDK, Emulator, etc,.)
 8. Follow steps given in this site: https://docs.expo.dev/workflow/android-studio-emulator/
 9. At the bashrc file script step, Do this. Open the `.bashrc` file present in home directory (Access in terminal like this `vi ~/.bashrc`)
-10. Add this line at the end of the document (.bashrc) <br />
+10. Add these lines at the end of the document (.bashrc) <br />
     `export ANDROID_HOME=$HOME/Android/Sdk` <br />
     `export PATH=$PATH:$ANDROID_HOME/emulator` <br />
     `export PATH=$PATH:$ANDROID_HOME/tools` <br />
