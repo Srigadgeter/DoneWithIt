@@ -4,10 +4,6 @@ A React Native App
 
 ## Steps to Install Android Studio in the Linux Machine
 
-Reference Video: https://youtu.be/0-S5a0eXPoc - Time: 00:18:02 - Running on an Android emulator
-
-Reference: https://developer.android.com/studio/install#linux
-
 1. Download Latest version of android studio from the official site
    Downloaded File: android-studio-2021.1.1.21-linux.tar.gz
 2. Extract the compressed file
@@ -25,3 +21,11 @@ Reference: https://developer.android.com/studio/install#linux
     `export PATH=$PATH:$ANDROID_HOME/tools/bin` <br />
     `export PATH=$PATH:$ANDROID_HOME/platform-tools` <br />
 11. Follow all other steps & Open Emulator
+
+
+Reference Video: https://youtu.be/0-S5a0eXPoc - Time: 00:18:02 - Running on an Android emulator
+
+References: <br />
+https://developer.android.com/studio/install#linux <br />
+https://docs.expo.dev/workflow/android-studio-emulator/ <br />
+https://reactnative.dev/docs/environment-setup <br />
